@@ -1,3 +1,4 @@
 # ProtofolioProjects
 Data Analyst Projects
-SQL Data Explorartion using Covid Datasets
+Covid 19 Protofolioprojects
+Data Explorartion.sql
